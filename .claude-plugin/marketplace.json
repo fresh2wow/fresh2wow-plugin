@@ -1,0 +1,12 @@
+{
+  "name": "fresh2wow",
+  "owner": { "name": "Fresh2Wow (DMGO LLC)", "email": "support@fresh2wow.com", "url": "https://fresh2wow.com" },
+  "description": "The Fresh2Wow plugin: two skills and the hosted Fresh2Wow connector for publishing to social networks from Claude.",
+  "plugins": [
+    {
+      "name": "fresh2wow",
+      "source": "./",
+      "description": "Publish to your social networks from Claude through your Fresh2Wow workspace: on-brand captions, uploads, drafts, review, scheduling and the 4-week content plan."
+    }
+  ]
+}
