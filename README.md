@@ -16,17 +16,17 @@ You need a Fresh2Wow account on the Starter plan or above (the content plan need
 In Claude Code:
 
 ```
-/plugin install fresh2wow --marketplace orney21d/fresh2wow-plugin
+/plugin install fresh2wow --marketplace fresh2wow/fresh2wow-plugin
 ```
 
 or in two steps:
 
 ```
-/plugin marketplace add orney21d/fresh2wow-plugin
+/plugin marketplace add fresh2wow/fresh2wow-plugin
 /plugin install fresh2wow@fresh2wow
 ```
 
-In Claude (web and desktop): **Customize → Plugins → Add → Add marketplace**, and enter `orney21d/fresh2wow-plugin`.
+In Claude (web and desktop): **Customize → Plugins → Add → Add marketplace**, and enter `fresh2wow/fresh2wow-plugin`.
 
 ## Connect
 

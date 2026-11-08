@@ -5,7 +5,7 @@
   "description": "Publish to your social networks from Claude through your Fresh2Wow workspace: on-brand captions, uploads, drafts, review, scheduling and the 4-week content plan.",
   "author": { "name": "Fresh2Wow (DMGO LLC)", "email": "support@fresh2wow.com", "url": "https://fresh2wow.com" },
   "homepage": "https://fresh2wow.com/en/#ai-agents",
-  "repository": "https://github.com/orney21d/fresh2wow-plugin",
+  "repository": "https://github.com/fresh2wow/fresh2wow-plugin",
   "license": "MIT",
   "keywords": ["social-media", "publishing", "scheduling", "instagram", "tiktok", "youtube", "linkedin", "content-calendar", "brand-voice"],
   "icon": "./icon.png",
